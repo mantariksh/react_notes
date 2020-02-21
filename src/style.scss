@@ -1,0 +1,15 @@
+$notes-list-width: 30%;
+$toolbar-height: 5vh;
+
+#toolbar {
+    height: $toolbar-height;
+    display: flex;
+}
+
+#app-pane {
+    display: flex;
+}
+
+#notes-list {
+    width: $notes-list-width;
+}

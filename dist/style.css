@@ -1,0 +1,9 @@
+#toolbar {
+  height: 5vh;
+  display: flex; }
+
+#app-pane {
+  display: flex; }
+
+#notes-list {
+  width: 30%; }
